@@ -26,6 +26,22 @@ In this project i assumed the role of an Associate Data Engineer who has recentl
 
 - <b>Windows 10</b> 
 
+<h2>Screenshots:</h2>
+
+<p align="center">
+Schema: <br/>
+<img src="https://user-images.githubusercontent.com/29946319/216603054-590fd531-b4cd-4a0a-b7b8-a60aa5eb5239.png" height="80%" width="80%"/>
+<br />
+
+<br />
+Data Warehouse Reporting:  <br/>
+<img src="https://user-images.githubusercontent.com/29946319/216604442-56d63203-a038-442e-8f2b-bb22dc5c8db1.png" height="80%" width="80%"/>
+
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk San
+
 
 <!--
  ```diff
