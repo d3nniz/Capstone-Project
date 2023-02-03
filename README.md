@@ -26,7 +26,7 @@ In this project i assumed the role of an Associate Data Engineer who has recentl
 
 - <b>Windows 10</b> 
 
-<h2>Screenshots:</h2>
+<h2>Screenshot of some tasks:</h2>
 
 <p align="center">
 Schema: <br/>
@@ -36,22 +36,31 @@ Schema: <br/>
 <br/>
 Data Warehouse Reporting:  <br/>
 <img src="https://user-images.githubusercontent.com/29946319/216604442-56d63203-a038-442e-8f2b-bb22dc5c8db1.png" height="80%" width="80%"/>
-
+<br/>
+ 
 <br/>
 Dashboard Creation: <br/>
 <img src="https://user-images.githubusercontent.com/29946319/216605281-7f5259a7-91e1-4ddf-ae6d-7c0aaeaa41e2.png" height="80%" width="80%"/>
-
- <br/>
+<br/>
+ 
+<br/>
 Get Latest Records: <br/>
 <img src="https://user-images.githubusercontent.com/29946319/216605969-cbdbdb34-c379-439a-bc90-6112dbaf4b56.png" height="80%" width="80%"/>
-
+<br/>
+ 
 <br/>
 Extract data: <br/>
 <img src="https://user-images.githubusercontent.com/29946319/216606712-4da21a83-3e0a-4487-9ce5-b620c3bebc10.png" height="80%" width="80%"/>
-
- <br/>
-Load model: <br/>
+<br/>
+ 
+<br/>
+Load sales forecast model: <br/>
 <img src="https://user-images.githubusercontent.com/29946319/216607388-8222e24a-686c-41db-ac6c-d8650058d8b7.png" height="80%" width="80%"/>
+<br/>
+ 
+<br/>
+predict sales in year 2023 using model: <br/>
+<img src="https://user-images.githubusercontent.com/29946319/216607964-2b10786f-8596-4233-b1c7-c12ec967cb7d.png" height="80%" width="80%"/>
 
 
 
